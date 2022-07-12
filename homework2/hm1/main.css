@@ -1,0 +1,43 @@
+.one{
+    background: #1717d9;
+    height: 200px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.two{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.point{
+    background: #01015b;
+    height: 150px;
+    width: 185px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.three{
+    background: #1717d9;
+    height: 400px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+
+.father{
+    color: white;
+    width: 620px;
+    height: 790px;
+    margin: auto;
+}
+
+
+
+
